@@ -22,7 +22,6 @@
 //! ANSI Terminal Stream Parsing.
 
 use alloc::string::String;
-use core::convert::TryFrom;
 
 use vte::{Params, ParamsIter, Perform};
 
